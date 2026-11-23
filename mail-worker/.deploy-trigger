@@ -1,0 +1,2 @@
+# Deploy trigger marker (no-op). Added to trigger the deploy workflow via paths filter: mail-worker/**
+# 2026-11-23
