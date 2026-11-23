@@ -9,6 +9,18 @@ enabled = true
 pattern = "${CUSTOM_DOMAIN}"
 custom_domain = true
 
+[[routes]]
+pattern = "nimbusmail01.ipv64.net"
+custom_domain = true
+
+[[routes]]
+pattern = "nimbusmail02.ipv64.de"
+custom_domain = true
+
+[[routes]]
+pattern = "nimbusmail03.home64.de"
+custom_domain = true
+
 [[d1_databases]]
 binding = "db"
 database_name = "cloud-mail"
